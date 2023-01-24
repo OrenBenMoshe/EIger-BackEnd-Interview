@@ -1,0 +1,3 @@
+I am currently not very familiar with functional programming, but I am eager to learn and have a strong desire to understand the concepts and principles behind it. I am confident in my ability to learn and adapt quickly, as I have a history of being able to teach myself new skills through self-study and experimentation. I am excited to dive deeper into functional programming and see what it has to offer.
+
+If my code demonstrates clear and easy to understand structure, please consider me for an opportunity.
